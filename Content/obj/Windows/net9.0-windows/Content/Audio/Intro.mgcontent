@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/Intro.wav</SourceFile>
+  <SourceTime>2025-06-24T20:04:48.136051+10:00</SourceTime>
+  <DestFile>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/bin/Windows/Content/Audio/Intro.xnb</DestFile>
+  <DestTime>2025-12-14T16:47:57.2279747+11:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2025-10-21T01:25:32+11:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2025-10-21T01:25:32+11:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Guns/AK47.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Guns/bullet.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Guns/Fireball.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Guns/handgun.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Guns/rpg.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Guns/rpgbullet.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Guns/shotgun.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Guns/smg.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Guns/sniper.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Guns/sniperbullet.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/AlienPlanet_Platform.jpg</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/AlienPlanet.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/background.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/blue_heart.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/cacodemon_boss.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/cacodemon.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/controls.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/Earth_Platform.jpg</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/Earth.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/green_heart.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/Mars_Platform.jpg</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/Mars.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/nobody_wins.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/p1wins.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/p2wins.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/placeholder.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Images/spaceship.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player1_animations/p1left.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player1_animations/p1leftm1.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player1_animations/p1leftm2.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player1_animations/p1right.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player1_animations/p1rightm1.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player1_animations/p1rightm2.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player2_animations/p2left.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player2_animations/p2leftm1.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player2_animations/p2leftm2.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player2_animations/p2right.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player2_animations/p2rightm1.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Assets/Player2_animations/p2rightm2.png</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/AlienPlanet.wav</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/Intro.wav</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/Losing.wav</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/Mars.wav</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/Menu.wav</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/Mercury.wav</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/OptionConfirm.wav</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/OptionSelect.mp3</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/shoot.mp3</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/Winner.wav</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Fonts/AstronFont.spritefont</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Fonts/ByteBounceFont.spritefont</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Fonts/InfoFont.spritefont</File>
+    <File>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Fonts/SubHeading.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

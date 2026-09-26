@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/Losing.wav</SourceFile>
+  <SourceTime>2025-06-26T18:32:32.9041137+10:00</SourceTime>
+  <DestFile>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/bin/Windows/Audio/Losing.xnb</DestFile>
+  <DestTime>2026-01-02T13:42:05.0362301+11:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2025-10-21T01:25:32+11:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2025-10-21T01:25:32+11:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

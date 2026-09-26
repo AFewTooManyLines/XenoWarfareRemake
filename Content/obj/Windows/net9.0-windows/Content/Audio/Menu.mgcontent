@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/Audio/Menu.wav</SourceFile>
+  <SourceTime>2025-06-24T20:04:48.1974933+10:00</SourceTime>
+  <DestFile>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/bin/Windows/Content/Audio/Menu.xnb</DestFile>
+  <DestTime>2026-01-02T13:44:07.0698523+11:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2025-10-21T01:25:32+11:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2025-10-21T01:25:32+11:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/shaur/OneDrive/Files/XenoWarfareRemake/Content/bin/Windows/Content/Audio/Menu.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>
